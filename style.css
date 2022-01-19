@@ -142,9 +142,11 @@ section {
     height: 100%;
     position: absolute;
     left: 0;
+    overflow: hidden;
+    transition: left 1.5s;
 }
 
-.section-5 {
+.section-1 {
     z-index: 50;
 }
 
@@ -174,6 +176,10 @@ section {
     border-bottom: 0.2rem solid #d50000;
     text-align: center;
     user-select: none;
+}
+
+.section-2 {
+    z-index: 40;
 }
 
 .section-2-wrapper {
@@ -220,6 +226,10 @@ section {
     width: 80rem;
 }
 
+.section-3 {
+    z-index: 30;
+}
+
 .section-3-wrapper {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)), url(images/section-3-bg.jpg) center no-repeat;
     background-size: cover;
@@ -248,6 +258,10 @@ section {
     width: 40rem;
     position: absolute;
     opacity: 0.7;
+}
+
+.section-4 {
+    z-index: 20;
 }
 
 .section-4-wrapper {
@@ -285,7 +299,9 @@ section {
 
 
 
-
+.section-5 {
+    z-index: 10;
+}
 
 .section-5-wrapper {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(images/section-5-bg.jpg) center no-repeat;

@@ -1,3 +1,4 @@
 #1 Create and Customize First, Second, and Third Sections
 #2 Create and Customize Fourth and Fifth Sections
 #3 Createe and Sytle Navbar and Make Progress Bars Work
+#4 Create Horizontal Scroll Effect with JS
