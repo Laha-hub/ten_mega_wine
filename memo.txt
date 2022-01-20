@@ -3,3 +3,4 @@
 #3 Createe and Sytle Navbar and Make Progress Bars Work
 #4 Create Horizontal Scroll Effect with JS
 #5 Make Progress Bar Work with JS
+#6 Make Project Responsive and anchor-tag work
